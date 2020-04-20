@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
-* {
-}
-
 html {
   font-family: "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 14px;
@@ -19,7 +16,7 @@ body {
   left: 50%;
   transform: translateY(-50%) translateX(-50%);
   -webkit- transform: translateY(-50%) translateX(-50%);
-  margin: auto;
+  -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
 
