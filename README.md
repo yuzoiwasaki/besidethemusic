@@ -1,2 +1,2 @@
 # besidethemusic
-[besidethemusic.tokyo](https://besidethemusic.tokyo)
+Teaser site for [besidethemusic.tokyo](https://besidethemusic.tokyo)
